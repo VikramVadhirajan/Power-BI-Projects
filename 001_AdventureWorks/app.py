@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 # ... other streamlit code ...
 # st.set_page_config(layout="wide")
-st.title("My Power BI Report")
+st.title("Adventure Works Power BI Dashboard")
 
 # Paste the iframe code here
 power_bi_embed_code = """
